@@ -237,3 +237,7 @@ img{
       100%{background-position: 0 0;}
       
 }
+#links{
+    color: white;
+    text-decoration: none;
+}
