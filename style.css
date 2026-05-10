@@ -239,7 +239,7 @@ img{
 }
 .links{
     margin: auto;
-    width: 200px;
+    width: 500px;
     height: 300px;
     margin-top: 20px;  
 }
@@ -252,7 +252,7 @@ img{
     color: blue;
     text-decoration: underline;
 }
-h3{
+#act{
     color: white;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
