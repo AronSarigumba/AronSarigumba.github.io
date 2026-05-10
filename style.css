@@ -242,7 +242,7 @@ img{
     width: 500px;
     height: 300px;
     margin-top: 20px;
-    background-color: red;
+    
 }
 .links a{
     color: white;
@@ -257,5 +257,5 @@ img{
     color: white;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    background-color: red;
+    
 }
