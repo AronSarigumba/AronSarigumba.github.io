@@ -238,7 +238,11 @@ img{
       
 }
 .links{
+    text-align: center;
+    margin-top: 20px;  
+}
+.links a{
     color: white;
+    font-size: 20px;
     text-decoration: none;
-    margin: auto;
 }
